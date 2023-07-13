@@ -35,5 +35,4 @@ public class DuplicateBrackets {
  * OUTPUT 
  * (a+b)+((c+d)) --> true
  * ((a+b)+(c+d)) --> false
-true
  */
